@@ -1,0 +1,15 @@
+{
+  "name": "translate-html-files-from-csv",
+  "version": "1.0.0",
+  "description": "A code example - Native Javascript",
+  "main": "translate-html-files.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^1.1.0",
+    "fs": "0.0.2"
+  }
+}
